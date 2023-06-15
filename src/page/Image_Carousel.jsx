@@ -33,7 +33,7 @@ export default function ImageCarousel() {
 
   return (
     <div>
-      <h2>Image Slider or Carousel</h2>
+      <h2>Image Carousel</h2>
 
       <div>
         <div style={{ position: "relative" }}>
